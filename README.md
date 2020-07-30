@@ -1,6 +1,6 @@
 # web-fullstack-js
 
-### The main idea from this proyect was show that its possible code without frameworks.
+### The main idea from this proyect was show that its possible code without frontend's frameworks .
 
 ### This web app can use CRUD methods
 
